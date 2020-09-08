@@ -10,4 +10,4 @@ if (year % 4) == 0:
    else:
        print()
 else:
-   print("done")
+   print("done!")
